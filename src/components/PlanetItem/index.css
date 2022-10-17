@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.image {
+  width: 50%;
+}
+
+.each-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.name-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
